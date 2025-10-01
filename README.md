@@ -6,10 +6,6 @@ Power BI dashboard analyzing global energy consumption and renewable generation 
 
 This project analyzes global energy trends, focusing on consumption by region and the growth of different power generation modes. The goal is to provide data-driven insights into the worldwide shift in energy usage and the rise of renewables. This analysis was completed as part of the Skill Wallet program.
 
-## Dashboard Preview
-
-![Dashboard Screenshot]()
-
 ## Folder Structure
 
 The project is organized into the following folders:
